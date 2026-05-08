@@ -29,7 +29,7 @@
   <name>Spark Project YARN</name>
   <properties>
     <sbt.project.name>yarn</sbt.project.name>
-    <jersey-1.version>1.9</jersey-1.version>
+    <jersey-1.version>1.13</jersey-1.version>
   </properties>
 
   <dependencies>
